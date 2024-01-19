@@ -1,0 +1,4 @@
+name: MidasSwordPlugin
+version: '${project.version}'
+main: me.ominous.midasswordplugin.MidasSwordPlugin
+api-version: '1.20'
